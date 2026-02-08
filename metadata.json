@@ -1,0 +1,5 @@
+{
+  "name": "化学品相容性评估系统",
+  "description": "基于CAS号、H短语和GHS分类标准的化学品相容性评估工具。自动提取H短语，判断GHS分类，并根据预定义的相容性矩阵生成评估报告。",
+  "requestFramePermissions": []
+}
